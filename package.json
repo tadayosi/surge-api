@@ -2,11 +2,11 @@
   "name": "surge-api",
   "version": "1.0.0",
   "description": "API backend for Surge Console",
-  "main": "dist/index.js",
+  "main": "dist/api/index.js",
   "license": "Apache-2.0",
   "scripts": {
     "build": "tsc",
-    "dev": "node dev.cjs",
+    "start": "vercel dev",
     "deploy": "vercel --prod"
   },
   "dependencies": {
