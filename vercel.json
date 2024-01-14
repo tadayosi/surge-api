@@ -15,7 +15,7 @@
         },
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://tadayosi-surge-console.surge.sh"
+          "value": "https://tofu-surge-console.surge.sh"
         },
         {
           "key": "Access-Control-Allow-Methods",
